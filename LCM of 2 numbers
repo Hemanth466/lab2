@@ -1,0 +1,13 @@
+x=float(input("enter first number:")
+y=float(input("enter second number:")
+
+if( x>y):
+greatest=x
+else:
+greatest=y
+while( true):
+if (greater %x==o)and (greater %y==0):
+    1cm =greater
+    break
+ greater +=1
+printf("the lcm is",1cm):
